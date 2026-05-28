@@ -1,7 +1,5 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 p{
-    color: blue;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #000;
 }
